@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://phuotstore.github.io/sitedev-pages-test/sitemap.xml
